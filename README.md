@@ -1,4 +1,4 @@
-# Win11-LTSC2024-InPlace-Upgrade
+# Win11-LTSC2024-Help InPlace-Upgrade
 > **Reclaim Hardware Performance — Kill Background "RAM Tax" — Upgrade to Windows 11 LTSC 2024 Preserving 100% of Data, Apps & Drivers.**
 
 ![Windows 11 LTSC](https://img.shields.io/badge/Windows-11%20LTSC%202024-0078D4?style=for-the-badge&logo=windows)
